@@ -12,6 +12,8 @@ Maite Olivares Rodas
 Tipo de proyecto: Videojuego
 Nombre: Rabirinsu 
 
+
+
 Tema: 
 Juego de resolución.
 Descripción: 
